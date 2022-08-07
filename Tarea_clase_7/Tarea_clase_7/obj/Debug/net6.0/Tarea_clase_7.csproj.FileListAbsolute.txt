@@ -1,0 +1,15 @@
+C:\Users\Pc\Documents\Workspace\Curso_dotNet_6_MinaClavero_IncluIT\Tarea_clase_7\Tarea_clase_7\bin\Debug\net6.0\Tarea_clase_7.exe
+C:\Users\Pc\Documents\Workspace\Curso_dotNet_6_MinaClavero_IncluIT\Tarea_clase_7\Tarea_clase_7\bin\Debug\net6.0\Tarea_clase_7.deps.json
+C:\Users\Pc\Documents\Workspace\Curso_dotNet_6_MinaClavero_IncluIT\Tarea_clase_7\Tarea_clase_7\bin\Debug\net6.0\Tarea_clase_7.runtimeconfig.json
+C:\Users\Pc\Documents\Workspace\Curso_dotNet_6_MinaClavero_IncluIT\Tarea_clase_7\Tarea_clase_7\bin\Debug\net6.0\Tarea_clase_7.dll
+C:\Users\Pc\Documents\Workspace\Curso_dotNet_6_MinaClavero_IncluIT\Tarea_clase_7\Tarea_clase_7\bin\Debug\net6.0\Tarea_clase_7.pdb
+C:\Users\Pc\Documents\Workspace\Curso_dotNet_6_MinaClavero_IncluIT\Tarea_clase_7\Tarea_clase_7\obj\Debug\net6.0\Tarea_clase_7.csproj.AssemblyReference.cache
+C:\Users\Pc\Documents\Workspace\Curso_dotNet_6_MinaClavero_IncluIT\Tarea_clase_7\Tarea_clase_7\obj\Debug\net6.0\Tarea_clase_7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pc\Documents\Workspace\Curso_dotNet_6_MinaClavero_IncluIT\Tarea_clase_7\Tarea_clase_7\obj\Debug\net6.0\Tarea_clase_7.AssemblyInfoInputs.cache
+C:\Users\Pc\Documents\Workspace\Curso_dotNet_6_MinaClavero_IncluIT\Tarea_clase_7\Tarea_clase_7\obj\Debug\net6.0\Tarea_clase_7.AssemblyInfo.cs
+C:\Users\Pc\Documents\Workspace\Curso_dotNet_6_MinaClavero_IncluIT\Tarea_clase_7\Tarea_clase_7\obj\Debug\net6.0\Tarea_clase_7.csproj.CoreCompileInputs.cache
+C:\Users\Pc\Documents\Workspace\Curso_dotNet_6_MinaClavero_IncluIT\Tarea_clase_7\Tarea_clase_7\obj\Debug\net6.0\Tarea_clase_7.dll
+C:\Users\Pc\Documents\Workspace\Curso_dotNet_6_MinaClavero_IncluIT\Tarea_clase_7\Tarea_clase_7\obj\Debug\net6.0\refint\Tarea_clase_7.dll
+C:\Users\Pc\Documents\Workspace\Curso_dotNet_6_MinaClavero_IncluIT\Tarea_clase_7\Tarea_clase_7\obj\Debug\net6.0\Tarea_clase_7.pdb
+C:\Users\Pc\Documents\Workspace\Curso_dotNet_6_MinaClavero_IncluIT\Tarea_clase_7\Tarea_clase_7\obj\Debug\net6.0\Tarea_clase_7.genruntimeconfig.cache
+C:\Users\Pc\Documents\Workspace\Curso_dotNet_6_MinaClavero_IncluIT\Tarea_clase_7\Tarea_clase_7\obj\Debug\net6.0\ref\Tarea_clase_7.dll
