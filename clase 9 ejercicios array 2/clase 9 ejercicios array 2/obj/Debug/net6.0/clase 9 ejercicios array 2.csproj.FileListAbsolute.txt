@@ -1,0 +1,15 @@
+C:\Users\Pc\Documents\Workspace\Curso_dotNet_6_MinaClavero_IncluIT\clase 9 ejercicios array 2\clase 9 ejercicios array 2\bin\Debug\net6.0\clase 9 ejercicios array 2.exe
+C:\Users\Pc\Documents\Workspace\Curso_dotNet_6_MinaClavero_IncluIT\clase 9 ejercicios array 2\clase 9 ejercicios array 2\bin\Debug\net6.0\clase 9 ejercicios array 2.deps.json
+C:\Users\Pc\Documents\Workspace\Curso_dotNet_6_MinaClavero_IncluIT\clase 9 ejercicios array 2\clase 9 ejercicios array 2\bin\Debug\net6.0\clase 9 ejercicios array 2.runtimeconfig.json
+C:\Users\Pc\Documents\Workspace\Curso_dotNet_6_MinaClavero_IncluIT\clase 9 ejercicios array 2\clase 9 ejercicios array 2\bin\Debug\net6.0\clase 9 ejercicios array 2.dll
+C:\Users\Pc\Documents\Workspace\Curso_dotNet_6_MinaClavero_IncluIT\clase 9 ejercicios array 2\clase 9 ejercicios array 2\bin\Debug\net6.0\clase 9 ejercicios array 2.pdb
+C:\Users\Pc\Documents\Workspace\Curso_dotNet_6_MinaClavero_IncluIT\clase 9 ejercicios array 2\clase 9 ejercicios array 2\obj\Debug\net6.0\clase 9 ejercicios array 2.csproj.AssemblyReference.cache
+C:\Users\Pc\Documents\Workspace\Curso_dotNet_6_MinaClavero_IncluIT\clase 9 ejercicios array 2\clase 9 ejercicios array 2\obj\Debug\net6.0\clase 9 ejercicios array 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pc\Documents\Workspace\Curso_dotNet_6_MinaClavero_IncluIT\clase 9 ejercicios array 2\clase 9 ejercicios array 2\obj\Debug\net6.0\clase 9 ejercicios array 2.AssemblyInfoInputs.cache
+C:\Users\Pc\Documents\Workspace\Curso_dotNet_6_MinaClavero_IncluIT\clase 9 ejercicios array 2\clase 9 ejercicios array 2\obj\Debug\net6.0\clase 9 ejercicios array 2.AssemblyInfo.cs
+C:\Users\Pc\Documents\Workspace\Curso_dotNet_6_MinaClavero_IncluIT\clase 9 ejercicios array 2\clase 9 ejercicios array 2\obj\Debug\net6.0\clase 9 ejercicios array 2.csproj.CoreCompileInputs.cache
+C:\Users\Pc\Documents\Workspace\Curso_dotNet_6_MinaClavero_IncluIT\clase 9 ejercicios array 2\clase 9 ejercicios array 2\obj\Debug\net6.0\clase 9 ejercicios array 2.dll
+C:\Users\Pc\Documents\Workspace\Curso_dotNet_6_MinaClavero_IncluIT\clase 9 ejercicios array 2\clase 9 ejercicios array 2\obj\Debug\net6.0\refint\clase 9 ejercicios array 2.dll
+C:\Users\Pc\Documents\Workspace\Curso_dotNet_6_MinaClavero_IncluIT\clase 9 ejercicios array 2\clase 9 ejercicios array 2\obj\Debug\net6.0\clase 9 ejercicios array 2.pdb
+C:\Users\Pc\Documents\Workspace\Curso_dotNet_6_MinaClavero_IncluIT\clase 9 ejercicios array 2\clase 9 ejercicios array 2\obj\Debug\net6.0\clase 9 ejercicios array 2.genruntimeconfig.cache
+C:\Users\Pc\Documents\Workspace\Curso_dotNet_6_MinaClavero_IncluIT\clase 9 ejercicios array 2\clase 9 ejercicios array 2\obj\Debug\net6.0\ref\clase 9 ejercicios array 2.dll

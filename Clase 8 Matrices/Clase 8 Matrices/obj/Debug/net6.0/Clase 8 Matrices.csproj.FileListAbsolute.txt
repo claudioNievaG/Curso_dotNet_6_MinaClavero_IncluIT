@@ -1,0 +1,15 @@
+C:\Users\Pc\Documents\Workspace\Curso_dotNet_6_MinaClavero_IncluIT\Clase 8 Matrices\Clase 8 Matrices\bin\Debug\net6.0\Clase 8 Matrices.exe
+C:\Users\Pc\Documents\Workspace\Curso_dotNet_6_MinaClavero_IncluIT\Clase 8 Matrices\Clase 8 Matrices\bin\Debug\net6.0\Clase 8 Matrices.deps.json
+C:\Users\Pc\Documents\Workspace\Curso_dotNet_6_MinaClavero_IncluIT\Clase 8 Matrices\Clase 8 Matrices\bin\Debug\net6.0\Clase 8 Matrices.runtimeconfig.json
+C:\Users\Pc\Documents\Workspace\Curso_dotNet_6_MinaClavero_IncluIT\Clase 8 Matrices\Clase 8 Matrices\bin\Debug\net6.0\Clase 8 Matrices.dll
+C:\Users\Pc\Documents\Workspace\Curso_dotNet_6_MinaClavero_IncluIT\Clase 8 Matrices\Clase 8 Matrices\bin\Debug\net6.0\Clase 8 Matrices.pdb
+C:\Users\Pc\Documents\Workspace\Curso_dotNet_6_MinaClavero_IncluIT\Clase 8 Matrices\Clase 8 Matrices\obj\Debug\net6.0\Clase 8 Matrices.csproj.AssemblyReference.cache
+C:\Users\Pc\Documents\Workspace\Curso_dotNet_6_MinaClavero_IncluIT\Clase 8 Matrices\Clase 8 Matrices\obj\Debug\net6.0\Clase 8 Matrices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pc\Documents\Workspace\Curso_dotNet_6_MinaClavero_IncluIT\Clase 8 Matrices\Clase 8 Matrices\obj\Debug\net6.0\Clase 8 Matrices.AssemblyInfoInputs.cache
+C:\Users\Pc\Documents\Workspace\Curso_dotNet_6_MinaClavero_IncluIT\Clase 8 Matrices\Clase 8 Matrices\obj\Debug\net6.0\Clase 8 Matrices.AssemblyInfo.cs
+C:\Users\Pc\Documents\Workspace\Curso_dotNet_6_MinaClavero_IncluIT\Clase 8 Matrices\Clase 8 Matrices\obj\Debug\net6.0\Clase 8 Matrices.csproj.CoreCompileInputs.cache
+C:\Users\Pc\Documents\Workspace\Curso_dotNet_6_MinaClavero_IncluIT\Clase 8 Matrices\Clase 8 Matrices\obj\Debug\net6.0\Clase 8 Matrices.dll
+C:\Users\Pc\Documents\Workspace\Curso_dotNet_6_MinaClavero_IncluIT\Clase 8 Matrices\Clase 8 Matrices\obj\Debug\net6.0\refint\Clase 8 Matrices.dll
+C:\Users\Pc\Documents\Workspace\Curso_dotNet_6_MinaClavero_IncluIT\Clase 8 Matrices\Clase 8 Matrices\obj\Debug\net6.0\Clase 8 Matrices.pdb
+C:\Users\Pc\Documents\Workspace\Curso_dotNet_6_MinaClavero_IncluIT\Clase 8 Matrices\Clase 8 Matrices\obj\Debug\net6.0\Clase 8 Matrices.genruntimeconfig.cache
+C:\Users\Pc\Documents\Workspace\Curso_dotNet_6_MinaClavero_IncluIT\Clase 8 Matrices\Clase 8 Matrices\obj\Debug\net6.0\ref\Clase 8 Matrices.dll
